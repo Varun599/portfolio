@@ -38,5 +38,55 @@ AI Engineer @ McKesson
 - Documented ML solutions, architectures, and processes to support knowledge sharing and maintainability.
 - Mentored junior data scientists and contributed to best practices and ML standards across the organization.
 - Stayed current with emerging AI/ML trends and evaluated their applicability to healthcare and supply chain use cases.
+AI/ML Engineer @ Bank of America
+- Built end-to-end ML pipelines covering data ingestion, feature engineering, training, validation, and production deployment.
+- Developed classification and anomaly detection models to identify fraudulent transactions and reduce false positives.
+- Refactored and extended legacy ML services to integrate Generative AI capabilities without disrupting existing production systems.
+- Introduced modular agentic architecture into existing microservices, enabling incremental AI adoption.
+- Built interactive Slack experiences (modals, dynamic forms, multi-step workflows) powered by LLM-backed agent systems.
+- Integrated Slack bots with backend microservices (FastAPI) and Vertex AI models for real-time decision support.
+- Designed evaluation frameworks for LLM-based systems, combining offline test sets, automated metrics, and human-in-the-loop reviews.
+- Used AI-assisted code analysis to understand and extend complex legacy systems without full rewrites.
+- Accelerated onboarding into mature microservice architectures by leveraging LLM-based code summarization and dependency mapping.
+- Built domain-adaptive LLM solutions using Vertex AI fine-tuning and parameter-efficient techniques.
+- Implemented RAG architectures integrating Vertex embeddings, vector databases, and enterprise document stores.
+- Conducted rigorous experiments to assess model quality, retrieval performance, and prompt effectiveness, iterating based on empirical results.
+- Operationalized GenAI models using Vertex AI pipelines, enabling scalable training, hyperparameter tuning, and production-grade deployment with CI/CD integration.
+- Built secure, API-driven conversational interfaces integrating LLM-powered agents with backend microservices (FastAPI / REST), improving workflow automation and reducing manual intervention.
+- Implemented prompt engineering and instruction-tuning strategies to improve reasoning, hallucination control, and response grounding in enterprise AI assistants.
+- Automated calendar scheduling and workflow orchestration using AI-driven context understanding.
+- Implemented secure OAuth-based authentication for Workspace-integrated AI agents.
+- Implemented model explainability techniques (SHAP, feature importance) to meet regulatory requirements.
+- Explained complex technical concepts (LLMs, RAG, evaluation metrics) to non-technical stakeholders in clear, actionable terms.
+- Partnered closely with product managers, designers, and engineers to gather requirements and deliver AI-powered solutions aligned with business goals.
+- Leveraged Model Garden foundation models (e.g., PaLM, Gemini, open-source LLMs) and adapted them through fine-tuning and parameter-efficient methods (LoRA/PEFT).
+- Integrated vector search and semantic retrieval mechanisms using embeddings to support real-time question answering over structured and unstructured enterprise datasets.
+- Optimized model inference latency for near real-time decisioning systems.
+- Stayed aligned with emerging AI/ML techniques and banking regulations, ensuring responsible AI adoption.
+AI/ML Engineer @ Liberty MutualInsurance
+- •	Designed and implemented machine learning solutions to support insurance underwriting, claims analytics, and risk assessment.
+•	Built predictive models for claim severity, loss prediction, and customer risk profiling.
+•	Applied supervised and unsupervised learning techniques to structured insurance datasets.
+•	Performed extensive data exploration, cleansing, and feature engineering on policy and claims data.
+•	Developed classification and regression models using traditional ML algorithms.
+•	Implemented fraud detection models to identify anomalous claims and suspicious patterns.
+•	Built time series forecasting models for loss trends and claims volume prediction.
+•	Conducted statistical analysis and hypothesis testing to support actuarial and business decisions.
+•	Optimized model performance through hyperparameter tuning and cross-validation.
+•	Collaborated with actuarial, underwriting, and business teams to translate requirements into ML use cases.
+•	Automated data preprocessing and model training workflows using Python-based pipelines.
+•	Developed reusable ML components and scripts for model development and evaluation.
+•	Integrated ML models into internal applications using REST APIs.
+•	Supported batch scoring and reporting processes for enterprise analytics teams.
+•	Created model documentation and validation reports for audit and compliance purposes.
+•	Implemented model monitoring to track performance degradation over time.
+•	Worked closely with data engineers to improve ETL pipelines and data quality checks.
+•	Generated insights and visualizations to communicate model results to stakeholders.
+•	Ensured adherence to data governance, security, and regulatory standards.
+•	Participated in code reviews and followed software engineering best practices.
+•	Contributed to the standardization of ML development practices across teams.
+
+
+
 
 
