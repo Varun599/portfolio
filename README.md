@@ -9,7 +9,7 @@
 B-Tech in CSE, 2017
 
 ### Work Experience
-AI Engineer @ McKesson
+AI Engineer @ McKesson                                                                                     Sept 2024 to Present
 - Designed and deployed custom LLMs, transformer models, and Retrieval-Augmented Generation (RAG) pipelines, enabling intelligent, context-aware enterprise applications.
 - Designed and deployed Slack-based AI assistants using Python and Slack Block Kit, enabling interactive, event-driven enterprise workflows with dynamic UI components.
 - Architected and deployed scalable enterprise-grade Virtual Agent frameworks using Google Vertex AI, enabling intelligent multi-turn conversational workflows across business domains.
@@ -38,7 +38,9 @@ AI Engineer @ McKesson
 - Documented ML solutions, architectures, and processes to support knowledge sharing and maintainability.
 - Mentored junior data scientists and contributed to best practices and ML standards across the organization.
 - Stayed current with emerging AI/ML trends and evaluated their applicability to healthcare and supply chain use cases.
-AI/ML Engineer @ Bank of America
+  
+AI/ML Engineer @ Bank of America                                                                            May 2022 - Aug 2024
+
 - Built end-to-end ML pipelines covering data ingestion, feature engineering, training, validation, and production deployment.
 - Developed classification and anomaly detection models to identify fraudulent transactions and reduce false positives.
 - Refactored and extended legacy ML services to integrate Generative AI capabilities without disrupting existing production systems.
@@ -63,28 +65,56 @@ AI/ML Engineer @ Bank of America
 - Integrated vector search and semantic retrieval mechanisms using embeddings to support real-time question answering over structured and unstructured enterprise datasets.
 - Optimized model inference latency for near real-time decisioning systems.
 - Stayed aligned with emerging AI/ML techniques and banking regulations, ensuring responsible AI adoption.
-AI/ML Engineer @ Liberty MutualInsurance
-- •	Designed and implemented machine learning solutions to support insurance underwriting, claims analytics, and risk assessment.
-•	Built predictive models for claim severity, loss prediction, and customer risk profiling.
-•	Applied supervised and unsupervised learning techniques to structured insurance datasets.
-•	Performed extensive data exploration, cleansing, and feature engineering on policy and claims data.
-•	Developed classification and regression models using traditional ML algorithms.
-•	Implemented fraud detection models to identify anomalous claims and suspicious patterns.
-•	Built time series forecasting models for loss trends and claims volume prediction.
-•	Conducted statistical analysis and hypothesis testing to support actuarial and business decisions.
-•	Optimized model performance through hyperparameter tuning and cross-validation.
-•	Collaborated with actuarial, underwriting, and business teams to translate requirements into ML use cases.
-•	Automated data preprocessing and model training workflows using Python-based pipelines.
-•	Developed reusable ML components and scripts for model development and evaluation.
-•	Integrated ML models into internal applications using REST APIs.
-•	Supported batch scoring and reporting processes for enterprise analytics teams.
-•	Created model documentation and validation reports for audit and compliance purposes.
-•	Implemented model monitoring to track performance degradation over time.
-•	Worked closely with data engineers to improve ETL pipelines and data quality checks.
-•	Generated insights and visualizations to communicate model results to stakeholders.
-•	Ensured adherence to data governance, security, and regulatory standards.
-•	Participated in code reviews and followed software engineering best practices.
-•	Contributed to the standardization of ML development practices across teams.
+  
+AI/ML Engineer @ Liberty MutualInsurance                                                                Sept 2019 – April 2022
+
+- Designed and implemented machine learning solutions to support insurance underwriting, claims analytics, and risk assessment.
+- Built predictive models for claim severity, loss prediction, and customer risk profiling.
+- Applied supervised and unsupervised learning techniques to structured insurance datasets.
+- Performed extensive data exploration, cleansing, and feature engineering on policy and claims data.
+- Developed classification and regression models using traditional ML algorithms.
+- Implemented fraud detection models to identify anomalous claims and suspicious patterns.
+- Built time series forecasting models for loss trends and claims volume prediction.
+- Conducted statistical analysis and hypothesis testing to support actuarial and business decisions.
+- Optimized model performance through hyperparameter tuning and cross-validation.
+- Collaborated with actuarial, underwriting, and business teams to translate requirements into ML use cases.
+- Automated data preprocessing and model training workflows using Python-based pipelines.
+- Developed reusable ML components and scripts for model development and evaluation.
+- Integrated ML models into internal applications using REST APIs.
+- Supported batch scoring and reporting processes for enterprise analytics teams.
+- Created model documentation and validation reports for audit and compliance purposes.
+- Implemented model monitoring to track performance degradation over time.
+- Worked closely with data engineers to improve ETL pipelines and data quality checks.
+- Generated insights and visualizations to communicate model results to stakeholders.
+- Ensured adherence to data governance, security, and regulatory standards.
+- Participated in code reviews and followed software engineering best practices.
+- Contributed to the standardization of ML development practices across teams.
+
+Data Scientist @ SBI Life Insurance – Mumbai, India						                                               Sep 2017 – Aug 2019
+- Analyzed large volumes of policy, claims, and customer data to support business and actuarial teams.
+- Built predictive models for policy lapse, customer churn, and renewal probability.
+- Developed risk scoring models to assist underwriting and pricing decisions.
+- Applied statistical and machine learning techniques to structured insurance datasets.
+- Performed extensive data cleaning, preprocessing, and transformation using Python and SQL.
+- Conducted exploratory data analysis (EDA) to identify trends, patterns, and anomalies.
+- Designed and implemented classification and regression models using traditional ML algorithms.
+- Built fraud detection models to identify suspicious claims and abnormal customer behavior.
+- Developed time series models to forecast claims volume and premium trends.
+- Performed feature engineering on demographic, policy, and transaction-level data.
+- Evaluated model performance using accuracy, precision, recall, ROC, and RMSE metrics.
+- Conducted hypothesis testing and statistical analysis to support business decisions.
+- Automated recurring data analysis and reporting workflows using Python scripts.
+- Created dashboards and reports to present insights to business and senior stakeholders.
+- Collaborated with actuarial, underwriting, and operations teams to define analytics use cases.
+- Supported batch scoring processes for periodic risk and customer segmentation analyses.
+- Documented model assumptions, methodologies, and results for audit and compliance needs.
+- Assisted data engineering teams with data validation and quality checks.
+- Worked with relational databases to extract and join data from multiple source systems.
+- Optimized model performance through parameter tuning and cross-validation.
+- Ensured compliance with data governance and regulatory guidelines.
+- Participated in peer reviews and followed best practices for analytics and coding standards.
+
+
 
 
 
