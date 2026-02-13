@@ -9,7 +9,7 @@
 B-Tech in CSE, 2017
 
 ### Work Experience
-AI Engineer @ McKesson                                                                                     Sept 2024 to Present
+Sr. AI/ML Engineer @ McKesson                                                                                     Sept 2024 to Present
 - Designed and deployed custom LLMs, transformer models, and Retrieval-Augmented Generation (RAG) pipelines, enabling intelligent, context-aware enterprise applications.
 - Designed and deployed Slack-based AI assistants using Python and Slack Block Kit, enabling interactive, event-driven enterprise workflows with dynamic UI components.
 - Architected and deployed scalable enterprise-grade Virtual Agent frameworks using Google Vertex AI, enabling intelligent multi-turn conversational workflows across business domains.
